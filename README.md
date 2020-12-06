@@ -1,1 +1,1 @@
-# 2020-folders
+# grossary-ai
